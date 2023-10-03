@@ -53,7 +53,7 @@
 <br>
 
 # DevLog
-The team dev log is kept as a markdown file in the docs repository. The group has meetings to determine the project's direction, progress task priority, and dev task assignment. Tasks are selected on a volunteer basis to accommodate varying dev availability and to encourage flexibility. Length of meetings and discussions are also kept in this log. The devlog can be found [here](https://github.com/DaneHarrison/EaTen-Meal-Planner/blob/main/docs/retrospective.pdf)
+The team dev log is kept as a markdown file in the docs repository. The group has meetings to determine the project's direction, progress task priority, and dev task assignment. Tasks are selected on a volunteer basis to accommodate varying dev availability and to encourage flexibility. Length of meetings and discussions are also kept in this log. The devlog can be found [here](https://github.com/DaneHarrison/EaTen-Meal-Planner/blob/main/docs/devlog.md)
 
 <br>
 

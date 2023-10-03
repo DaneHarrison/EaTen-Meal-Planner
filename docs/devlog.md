@@ -1,15 +1,5 @@
-# Comp3350  
-# Team 10  
-## Group members  
-Dane Wanke - wanked@myumanitoba.ca  
-Gurdit Singh- singhg78@myumanitoba.ca  
-Joseffus Santos - umsant28@myumanitoba.ca  
-Manraj Singh – singhm53@myumanitoba.ca  
-Zhihou Zhou- zhouz2@myumanitoba.ca  
-<br>
-<br>
 ## Meetings
----
+
 ### 2022 May 12
     Attendees:  
     - Gurdit
